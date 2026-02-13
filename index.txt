@@ -1,0 +1,163 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Pranjal Jha
+Pranjal Jha
+Full Stack Developer
+
+Show Contacts
+
+Email
+pranjal@example.com
+
+Phone
++91 98765 43210
+
+Birthday
+17/02, 2006
+
+Location
+Banglore, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I'm a BCA 1st Year Student and Full Stack Developer, passionate about building web applications and learning new technologies.
+I enjoy turning complex coding problems into simple, beautiful and intuitive designs.
+My goal is to build websites that are functional, user-friendly, and attractive.
+Moreover, I add a personal touch to your product and make sure it is scalable and easy to use.
+My aim is to bring across your message and identity in the most creative way through code.
+I have worked on various academic and personal full-stack projects.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web Design
+Modern and responsive user interface design using latest CSS frameworks.
+alt = Web development icon
+Full Stack Development
+High-quality development of sites using MERN stack (MongoDB, Express, React, Node) or similar technologies.
+alt = mobile app icon
+App Development
+Fundamental development of cross-platform applications.
+alt = code icon
+Backend Development
+Building robust APIs and managing databases for seamless data flow.
+## testimonials
+
+Testimonials
+
+alt = Client/Professor Name
+[Client/Professor Name]
+Pranjal was hired to develop a project for our department.
+We were very pleased with the work done. He is eager to learn and very concerned about the needs of the client.
+The project was delivered on time and the code structure was clean and easy to understand.
+alt = Peer/Colleague Name
+[Peer/Colleague Name]
+Pranjal helped collaborate on a hackathon project. We were very pleased with the work done.
+He has great coding skills and is very concerned about the needs of the team.
+A dedicated developer who always strives to implement the best solutions for the problem at hand.
+
+# resume
+
+Resume
+
+Education
+
+Kristu Jayanti University
+2025 — Present (BCA 1st Year)
+Currently pursuing Bachelor of Computer Applications. Focusing on core programming concepts, data structures, and web technologies.
+Premier Schools
+2022 — 2024
+Completed Higher Secondary Education with a focus on Computer Science and Mathematics.
+
+Nirmala Convent School
+2011 — 2021
+Completed Secondary Education.
+Experience
+
+Full Stack Developer (Freelance/Projects)
+2025 — Present
+Developing dynamic web applications, working with databases, and deploying projects to live servers.
+Web Development Intern (Optional)
+2025 — 2026
+Assisted in designing layouts and writing basic HTML/CSS for client websites.
+My skills
+
+Full Stack Development
+80%
+HTML/CSS/JavaScript
+90%
+React.js
+70%
+Database Management (SQL/Mongo)
+60%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = project 1
+[Project Name 1]
+Web development
+
+alt = project 2
+[Project Name 2]
+Full Stack App
+
+alt = project 3
+[Project Name 3]
+Web design
+
+# blog
+
+Blog
+
+alt = Learning Full Stack
+Development
+[Date]
+The Journey of a BCA Student
+Exploring the challenges and rewards of learning full stack development in the first year of college.
+alt = Tech Trends
+Technology
+[Date]
+Latest Web Technologies
+Discussing the newest frameworks and tools in the JavaScript ecosystem.
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
